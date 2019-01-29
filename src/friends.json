@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://familyguy.fandom.com/wiki/Stewie_Griffin?file=FGuy_Stewie_Gen2012_R3Flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://familyguy.fandom.com/wiki/Meg_Griffin?file=FGuy_Meg_Gen2012_R3Flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://familyguy.fandom.com/wiki/Glenn_Quagmire?file=Quagmire.PNG",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://familyguy.fandom.com/wiki/Brian_Griffin?file=FGuy_Brian_Gen2012_R3Flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://familyguy.fandom.com/wiki/Peter_Griffin?file=FGuy_Peter_Gen2012_R3Flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://familyguy.fandom.com/wiki/Chris_Griffin?file=FGuy_Chris_Gen2012_R3Flat.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://familyguy.fandom.com/wiki/Consuela?file=Consuela1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://familyguy.fandom.com/wiki/Jerome?file=Jerome.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://familyguy.fandom.com/wiki/Joe_Swanson?file=190px-Joe_Swanson.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://familyguy.fandom.com/wiki/Cleveland_Brown?file=Cleveland.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://familyguy.fandom.com/wiki/John_Herbert?file=Herbert.JPG",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://familyguy.fandom.com/wiki/Bertram?file=Bertramgriffin.PNG",
+    "clicked": false
+  }
+]
+
+
+
